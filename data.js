@@ -70,7 +70,7 @@ module.exports = [
     name: 'impure.fun',
     description: 'Functional code for humans',
     url: 'https://impure.fun',
-    twitter: '@luislikeIewis',
+    twitter: '@luwvis',
     tags: [
       'DDD',
       'FSharp',
